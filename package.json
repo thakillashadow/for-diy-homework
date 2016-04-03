@@ -6,6 +6,7 @@
   "repository": "http://githuh.com/diy/super-simple-server",
   "version": "0.0.1",
   "dependencies": {
+    "express": "4.13.4"
   },
   "devDependencies": {},
   "optionalDependencies": {},
